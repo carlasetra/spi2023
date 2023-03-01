@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+
+
+body, html {
+	font-family: 'Calibri', sans-serif;
+	color: #656c6d;
+	background-color:rgb(247, 247, 247);
+	font-size: 13pt;
+}
+
+h1 {
+	font-size: 6em;
+	font-family: 'Oleo Script', cursive;
+}
+
+h2 {
+	background-color: rgb(63, 63, 63);
+	color: whitesmoke;
+	width: 100%;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 20pt;
+}
+
+p {
+	word-break: break-all;
+}
+
+.container {
+	background-color:rgb(231, 231, 231)
+}
+
+
+.topo {
+	text-align: center;
+	margin-bottom: 5%;
+	background-color: rgb(63, 63, 63);
+	color: whitesmoke;
+}
+
+.experiencia {
+	margin: 40px 0 0 50px;
+}
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+	width: 2em;
+	height: 2em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+	fill: #4691f6;
+  }
+  
+  .svg-icon circle {
+	stroke: #4691f6;
+	stroke-width: 1;
+  }
+
+footer {
+	text-align: center;
+	background-color: rgb(63, 63, 63);
+	color: rgb(247, 247, 247);
+}
+
+.rodape {
+	margin-top: 10%;
+}
